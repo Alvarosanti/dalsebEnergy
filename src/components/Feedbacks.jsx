@@ -37,7 +37,7 @@ const Feedbacks = () => {
     <div className='mt-12 bg-black-100 rounded-[20px]'>
       <div className={`${styles.padding} bg-tertiary rounded-2xl min-h-[300px]`}>
         <motion.div variants={textVariant}>
-          <p className={styles.sectionSubText}>Lo que dicen sobre el servicio</p>
+          <p className={styles.sectionSubText}>Lo que dicen sobre <span className='text-white'>DALSEB</span> <span className='text-[#31fd7c]'>ENERGY</span></p>
           <h2 className={styles.sectionHeadText}>Comentarios.</h2>
         </motion.div>
       </div>

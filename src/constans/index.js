@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Informacion del sevicio",
+    title: "Instalacion",
     icon: web,
   },
   {
-    title: "Medir area y consumo",
+    title: "Paneles fotovoltaicos",
     icon: mobile,
   },
   {
-    title: "Propuesta de instalacion",
+    title: "...",
     icon: backend,
   },
   {
-    title: "Gestion administrativa",
+    title: "...",
     icon: creator,
   },
 ];
@@ -117,54 +117,54 @@ const technologies = [
 const experiences = [
   {
     title: "Informacion del servicio",
-    company_name: "Starbucks",
+    company_name: "...",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "1",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "1...",
+      "2...",
+      "3...",
+      "4..."
     ],
   },
   {
     title: "Medir area y consumo",
-    company_name: "Tesla",
+    company_name: "...",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "2",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "1...",
+      "2...",
+      "3...",
+      "4..."
     ],
   },
   {
     title: "Propuesta de instalacion",
-    company_name: "Shopify",
+    company_name: "...",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "3",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "1...",
+      "2...",
+      "3...",
+      "4..."
     ],
   },
   {
     title: "Gestion administrativa",
-    company_name: "Meta",
+    company_name: "...",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "4",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "1...",
+      "2...",
+      "3...",
+      "4..."
     ],
   },
 ];
@@ -172,25 +172,25 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "...",
     name: "Sara Lee",
-    designation: "CFO",
+    designation: "CTO",
     company: "Acme Co",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "...",
     name: "Chris Brown",
-    designation: "COO",
+    designation: "CEO",
     company: "DEF Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "...",
     name: "Lisa Wang",
-    designation: "CTO",
+    designation: "TPO",
     company: "456 Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
