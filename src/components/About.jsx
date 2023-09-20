@@ -33,15 +33,23 @@ const About = () => {
   return (
     <>
       <motion.div>
-        <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview</h2>
+        <p className={styles.sectionSubText}>Nosotros</p>
+        <h2 className={styles.sectionHeadText}>Misi&oacute;n</h2>
       </motion.div>
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Text text
-        Text text
+        Nuestra mision es ...
+      </motion.p>
+      <motion.div>
+        <h2 className={styles.sectionHeadText}>Visi&oacute;n</h2>
+      </motion.div>
+      <motion.p
+        variants={fadeIn("", "", 0.1, 1)}
+        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+      >
+        Nuestra mision es ...
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (

@@ -28,33 +28,33 @@ import {
 export const navLinks = [
   {
     id: "about",
-    title: "About",
+    title: "Nosotros",
   },
   {
     id: "work",
-    title: "Work",
+    title: "Servicio",
   },
   {
     id: "contact",
-    title: "Contact",
+    title: "Contacto",
   },
 ];
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Informacion del sevicio",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Medir area y consumo",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Propuesta de instalacion",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Gestion administrativa",
     icon: creator,
   },
 ];
@@ -116,7 +116,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
+    title: "Informacion del servicio",
     company_name: "Starbucks",
     icon: starbucks,
     iconBg: "#383E56",
@@ -129,7 +129,7 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
+    title: "Medir area y consumo",
     company_name: "Tesla",
     icon: tesla,
     iconBg: "#E6DEDD",
@@ -142,7 +142,7 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
+    title: "Propuesta de instalacion",
     company_name: "Shopify",
     icon: shopify,
     iconBg: "#383E56",
@@ -155,7 +155,7 @@ const experiences = [
     ],
   },
   {
-    title: "Full stack Developer",
+    title: "Gestion administrativa",
     company_name: "Meta",
     icon: meta,
     iconBg: "#E6DEDD",

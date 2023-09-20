@@ -13,11 +13,11 @@ const Hero = () => {
         </div>
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>DALSEB&nbsp;<span className='text-[#31fd7c]'>ENERGY</span></h1>
-          <p className={`${styles.heroSubText} mt-2 text-white-100`}>Reciclar, reutilizar, restaurar, reponer.</p>
+          <p className={`${styles.heroSubText} mt-2 text-white-100`}><strong>Reciclar, reutilizar, restaurar, reponer.</strong></p>
         </div>
       </div>
       <ComputersCanvas />
-      
+
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
         <a href='#about'>
           <div className='w-[35px] h-[60px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2'>
@@ -25,14 +25,10 @@ const Hero = () => {
               animate={{ y: [0, 24, 0] }}
               transition={{ duration: 1.5, repeat: Infinity, repeatType: 'loop' }}
               className='w-3 h-3 rounded-full bg-secondary mb-1'>
-
             </motion.dev>
-
           </div>
         </a>
-
       </div>
-
     </section>
   )
 }
