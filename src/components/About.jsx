@@ -40,7 +40,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Nuestra mision es ...
+        Nuestra misi&oacute;n es ...
       </motion.p>
       <motion.div>
         <h2 className={styles.sectionHeadText}>Visi&oacute;n</h2>
@@ -49,7 +49,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Nuestra mision es ...
+        Nuestra visi&oacute;n es ...
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
