@@ -64,7 +64,7 @@ const Experience = () => {
           Servicio
         </p>
         <h2 className={`${styles.sectionHeadText} text-center`}>
-          Proceso para el servicio de instalacion.
+          Proceso para el servicio de instalaci&oacute;n.
         </h2>
       </motion.div>
 

@@ -7,14 +7,15 @@ import Feedbacks from './Feedbacks';
 import Contact from './Contact';
 
 export {
+
   Hero,
   Navbar,
   About,
   Experience,
   Feedbacks,
   Contact,
-  EarthCanvas, 
-  BallCanvas, 
-  ComputersCanvas, 
+  EarthCanvas,
+  BallCanvas,
+  ComputersCanvas,
   StarsCanvas
 }
